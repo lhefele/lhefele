@@ -8,7 +8,7 @@ My name is Lisa Hefele and I am an epidemiologist currently based in Luxembourg.
 
 My research focus and interests:
 
- -  🔥 Applied ("field") epidemiology
+ -  🔥 Applied epidemiology, fieldwork
  -  🔍 Infectious diseases, mainly vaccine-preventable diseases, surveillance
  -  📈 Data analysis & visualization, digital tools
  -  🖥️ R (advanced), Stata (occasionally), Python (beginner)
