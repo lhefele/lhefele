@@ -11,7 +11,7 @@ My research focus and interests:
  -  🔥 Applied ("field") epidemiology
  -  🔍 Infectious diseases, mainly vaccine-preventable diseases, surveillance
  -  📈 Data analysis & visualization, digital tools
- -  🖥️ R (advanced), Stata (occasionally) and Python (beginner)
+ -  🖥️ R (advanced), Stata (occasionally), Python (beginner)
  -  👩‍🏫 Teaching, capacity strengthening
  -  🗂️ Research data management, reproducible research
 
