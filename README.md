@@ -13,5 +13,6 @@ My research focus and interests:
  -  📈 Data analysis, digital tools
  -  🖥️ R (advanced), Stata (occasionally) and Python (beginner)
  -  👩‍🏫 Teaching, capacity strengthening
+ -  🗂️ Research data management, reproducible research
 
 
