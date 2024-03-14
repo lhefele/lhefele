@@ -10,7 +10,7 @@ My research focus and interests:
 
  -  🔥 Applied ("field") epidemiology
  -  🔍 Infectious diseases, mainly vaccine-preventable diseases, surveillance
- -  📈 Data analysis and digital tools
+ -  📈 Data analysis, digital tools
  -  👩‍🏫 Teaching, capacity strengthening
 
 
