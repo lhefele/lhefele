@@ -16,4 +16,4 @@ My research focus and interests:
  -  👩‍🏫 Teaching, capacity strengthening
  -  🗂️ Research data management, reproducible research
 
-Have a look at my publications [here](https://orcid.org/0000-0001-5449-9503).
+Have a look at my publications on [ORCID](https://orcid.org/0000-0001-5449-9503) or on [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57184259200)
