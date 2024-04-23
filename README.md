@@ -12,7 +12,7 @@ My research focus and interests:
  -  🔍 Infectious diseases, surveillance, mother and child health
  -  📈 Data analysis & visualization
  -  📶 Digital data collection
- -  🖥️ R (advanced), Stata (occasionally), Python (beginner)
+ -  🖥️ R (advanced), Stata (occasionally), Python and Julia (beginner)
  -  👩‍🏫 Teaching, capacity strengthening
  -  🗂️ Research data management, reproducible research
 
