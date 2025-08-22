@@ -6,6 +6,7 @@ My name is Lisa Hefele and I am an epidemiologist currently based in Luxembourg.
  -  👩‍🔬 Postdoctoral fellow at the [Luxembourg Institute of Health](https://www.lih.lu/en/) 🇱🇺  | Visiting scientist at the [Institut Pasteur du Laos](https://www.pasteur.la/) 🇱🇦
  -  💙 Committee member: [LuxDoc](https://luxdoc.uni.lu/) - Luxembourg's Young Researchers Association (Vice-President 2022-2023; 2025)
  -  🤝 Member of the [eLife Ambassadors programme](https://elifesciences.org/)
+ -  📄 Policy Associate at [Infectious Disease Alliance](https://www.id-alliance.org/)
 
 My research focus and interests:
 
